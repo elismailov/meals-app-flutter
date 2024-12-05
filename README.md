@@ -1,16 +1,8 @@
-# meals
+# Categories Screen
 
-A new Flutter project.
+<img width="407" alt="categoriesScreen" src="https://github.com/user-attachments/assets/e9dbc71f-ab64-43d1-ba71-9c8a660a2f4f">
 
-## Getting Started
+# Meals Screen
 
-This project is a starting point for a Flutter application.
+<img width="403" alt="mealsScreen" src="https://github.com/user-attachments/assets/4befd5e3-6d78-4335-81ca-5a65c5441207">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

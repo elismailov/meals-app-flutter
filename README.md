@@ -1,5 +1,3 @@
-# Categories
+# Screenshots
 
-<p align="center">
-![categories](https://github.com/user-attachments/assets/061af071-33cb-4b16-96d6-7cc8c445716e)
-</p>
+![categories](https://github.com/user-attachments/assets/9152e45c-452d-4b45-98c6-d0f31ab5f70b)
